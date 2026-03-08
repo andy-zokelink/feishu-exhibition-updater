@@ -1,6 +1,6 @@
 # 1. 克隆你的仓库
-git clone https://github.com/你的用户名/你的仓库名.git
-cd 你的仓库名
+git clone https://github.com/andy-zokelink/feishu-exhibition-updater.git
+cd feishu-exhibition-updater
 
 # 2. 复制文件到仓库
 # 将以下文件复制到仓库目录：
